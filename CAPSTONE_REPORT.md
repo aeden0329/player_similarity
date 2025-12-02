@@ -11,6 +11,8 @@ Tool-Calling and Reasoning: It implements advanced LLM reasoning by forcing the 
 Hybrid RAG/Tool Integration: The agent integrates both structured (CSV) data via a custom tool and unstructured (text) data via a vector database, showcasing a unified approach to diverse data types.
 Robustness (Error Handling): The inclusion of a dedicated Fallback Node (Step 6) fulfills the requirement for building production-ready, resilient AI systems that fail gracefully
 
+VIDEO SUMMARY:
+https://drive.google.com/file/d/1I69Ss6ywh5NKDhDPJhYYHQX_jORksdWv/view?usp=drive_link
 
 Plan and Execution Status:
 This section details the planned steps and confirms the successful execution of each phase of the project
