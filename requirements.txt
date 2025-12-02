@@ -1,0 +1,15 @@
+# Core LLM/Langchain dependencies
+langchain
+langgraph
+openai  # Or another LLM provider if you use a different one
+pydantic # For Structured Output
+
+# Data processing and RAG
+pandas
+numpy
+chromadb # Example Vector Store
+tiktoken # Tokenizer
+
+# NEW: For web scraping stats
+requests
+beautifulsoup4
