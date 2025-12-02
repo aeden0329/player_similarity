@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+
+# Dependencies
+*.pyc
+
+# Database and Generated files
+chroma_db/
+.env

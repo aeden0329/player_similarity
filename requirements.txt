@@ -1,6 +1,8 @@
 # Core LLM/Langchain dependencies
 langchain
+langchain_community
 langgraph
+langchain_openai
 openai  # Or another LLM provider if you use a different one
 pydantic # For Structured Output
 
